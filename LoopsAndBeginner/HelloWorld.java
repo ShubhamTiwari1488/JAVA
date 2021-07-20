@@ -1,0 +1,10 @@
+
+/*______PRINTING HELLO WORLD ON THE SCREEN________________*/
+
+class FirstProgram{
+   public static void main(String args[]){
+      
+      System.out.println("Hello World\n");
+ }
+}
+      
